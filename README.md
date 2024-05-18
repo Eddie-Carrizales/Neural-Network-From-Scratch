@@ -4,7 +4,8 @@ This Python script demonstrates how to build a neural network from scratch to pr
 Note: I originally coded this on Google Colab and later made it into a Python class (thats why I have these two scripts).
 
 ## Google Colab:
-Import the .ipybn file into Google Colab and run
+1. Import the .ipynb file into Google Colab
+2. Run the code
 
 ## Python IDE:
 
